@@ -1,0 +1,19 @@
+{
+  "name": "@allmeida/simple-cors-proxy",
+  "version": "0.0.1",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ramon Almeida <contato@ramonalmeida.com>",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "request": "^2.88.0"
+  },
+  "bin": {
+    "simple-cors-proxy": "bin/index.js"
+  },
+  "devDependencies": {},
+  "description": ""
+}
